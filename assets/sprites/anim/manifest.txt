@@ -1,0 +1,14 @@
+# pose frames fps
+idle 12 10
+walk 12 12
+happy 10 12
+sleep 10 6
+drag 8 12
+sad 8 6
+focus 8 8
+relax 8 7
+sick 8 7
+cheer 8 14
+dizzy 8 14
+surprise 6 14
+eat 8 12
